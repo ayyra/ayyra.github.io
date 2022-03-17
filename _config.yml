@@ -1,6 +1,6 @@
 title: Audrey Addablah
-url: "https://ayyra.github.io"
-baseurl: "/"
+url: "https://ayyra.github.io/"
+baseurl: ""
 
 markdown: kramdown
 #ins_logo: "./bits-logo.png"
