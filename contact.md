@@ -3,24 +3,21 @@ layout: default
 is_contact: true
 ---
 
-* Email: [foo@xyz.com](mailto:foo@xyz.com)
-
-* Phone: [+91-123123](tel:+91-123123)
+* Email: [addablah.audrey@gmail.com](mailto:addablah.audrey@gmail.com)
 
 ---
 
 ## Mailing Address
 
-> 221B, Baker Street
+> Roi du poulet, Riviera Palmeraie
 >
-> London
+> Abidjan
 >
-> United Kingdom
+> Côte d'Ivoire
 
 ---
 
 ## Social
 
 1. [Facebook](#)
-2. [Twitter](#)
-3. [Google+](#)
+2. [Twitter](https://twitter.com/ay_yra)
